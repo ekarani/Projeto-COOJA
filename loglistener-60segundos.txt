@@ -198,3 +198,137 @@
 12:11.527	ID:5	RECV seq=12, latency=56899 ticks (32483 us | 32 ms) from 4
 12:18.972	ID:2	DATA send to 1: '12;15632'
 12:19.026	ID:5	RECV seq=12, latency=51548 ticks (256 us | 0 ms) from 2
+13:01.270	ID:1	RPL status:
+13:01.272	ID:1	Joined DAG with instance ID: 30
+13:01.273	ID:1	Rank: 480
+13:01.274	ID:1	Routing table:
+13:01.282	ID:1	- Destination: aaaa::212:7404:4:404 | Prefix length: 128 | Next hop: fe80::212:7404:4:404
+13:01.290	ID:1	- Destination: aaaa::212:7403:3:303 | Prefix length: 128 | Next hop: fe80::212:7403:3:303
+13:01.298	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+13:18.198	ID:2	DATA send to 1: '13;55824'
+13:18.276	ID:5	RECV seq=13, latency=52258 ticks (21923 us | 21 ms) from 2
+13:41.560	ID:4	DATA send to 1: '13;31248'
+13:41.651	ID:5	RECV seq=13, latency=56370 ticks (16339 us | 16 ms) from 4
+13:52.158	ID:3	DATA send to 1: '13;32787'
+13:52.276	ID:5	RECV seq=13, latency=9779 ticks (36287 us | 36 ms) from 3
+14:01.270	ID:1	RPL status:
+14:01.272	ID:1	Joined DAG with instance ID: 30
+14:01.273	ID:1	Rank: 494
+14:01.274	ID:1	Routing table:
+14:01.282	ID:1	- Destination: aaaa::212:7404:4:404 | Prefix length: 128 | Next hop: fe80::212:7404:4:404
+14:01.290	ID:1	- Destination: aaaa::212:7403:3:303 | Prefix length: 128 | Next hop: fe80::212:7403:3:303
+14:01.298	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+14:02.917	ID:2	DATA send to 1: '14;13840'
+14:03.027	ID:5	RECV seq=14, latency=53308 ticks (53967 us | 53 ms) from 2
+14:10.791	ID:3	DATA send to 1: '14;53520'
+14:10.901	ID:5	RECV seq=14, latency=9509 ticks (28047 us | 28 ms) from 3
+14:23.021	ID:4	DATA send to 1: '14;13584'
+14:23.153	ID:5	RECV seq=14, latency=57696 ticks (56806 us | 56 ms) from 4
+15:01.270	ID:1	RPL status:
+15:01.272	ID:1	Joined DAG with instance ID: 30
+15:01.273	ID:1	Rank: 499
+15:01.274	ID:1	Routing table:
+15:01.282	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+15:01.290	ID:1	- Destination: aaaa::212:7404:4:404 | Prefix length: 128 | Next hop: fe80::212:7404:4:404
+15:01.298	ID:1	- Destination: aaaa::212:7403:3:303 | Prefix length: 128 | Next hop: fe80::212:7403:3:303
+15:07.136	ID:2	DATA send to 1: '15;21008'
+15:07.278	ID:5	RECV seq=15, latency=54390 ticks (86987 us | 86 ms) from 2
+15:27.900	ID:3	DATA send to 1: '15;24336'
+15:28.026	ID:5	RECV seq=15, latency=10038 ticks (44191 us | 44 ms) from 3
+15:37.115	ID:4	DATA send to 1: '15;16656'
+15:37.276	ID:5	RECV seq=15, latency=58665 ticks (86377 us | 86 ms) from 4
+16:01.270	ID:1	RPL status:
+16:01.272	ID:1	Joined DAG with instance ID: 30
+16:01.273	ID:1	Rank: 503
+16:01.274	ID:1	Routing table:
+16:01.282	ID:1	- Destination: aaaa::212:7404:4:404 | Prefix length: 128 | Next hop: fe80::212:7404:4:404
+16:01.290	ID:1	- Destination: aaaa::212:7403:3:303 | Prefix length: 128 | Next hop: fe80::212:7403:3:303
+16:01.298	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+16:07.244	ID:3	DATA send to 1: '16;2832'
+16:07.400	ID:5	RECV seq=16, latency=11031 ticks (74495 us | 74 ms) from 3
+16:18.854	ID:2	DATA send to 1: '16;11792'
+16:18.903	ID:5	RECV seq=16, latency=51289 ticks (123424 us | 123 ms) from 2
+16:28.708	ID:4	DATA send to 1: '16;3344'
+16:28.778	ID:5	RECV seq=16, latency=55638 ticks (125073 us | 125 ms) from 4
+17:01.270	ID:1	RPL status:
+17:01.272	ID:1	Joined DAG with instance ID: 30
+17:01.273	ID:1	Rank: 503
+17:01.274	ID:1	Routing table:
+17:01.282	ID:1	- Destination: aaaa::212:7403:3:303 | Prefix length: 128 | Next hop: fe80::212:7403:3:303
+17:01.290	ID:1	- Destination: aaaa::212:7404:4:404 | Prefix length: 128 | Next hop: fe80::212:7404:4:404
+17:01.298	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+17:11.479	ID:3	DATA send to 1: '17;10512'
+17:11.526	ID:5	RECV seq=17, latency=7478 ticks (97138 us | 97 ms) from 3
+17:26.217	ID:4	DATA send to 1: '17;52752'
+17:26.279	ID:5	RECV seq=17, latency=55399 ticks (117779 us | 117 ms) from 4
+17:32.206	ID:2	DATA send to 1: '17;56080'
+17:32.278	ID:5	RECV seq=17, latency=52074 ticks (16308 us | 16 ms) from 2
+18:01.270	ID:1	RPL status:
+18:01.272	ID:1	Joined DAG with instance ID: 30
+18:01.273	ID:1	Rank: 503
+18:01.274	ID:1	Routing table:
+18:01.282	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+18:01.290	ID:1	- Destination: aaaa::212:7404:4:404 | Prefix length: 128 | Next hop: fe80::212:7404:4:404
+18:01.298	ID:1	- Destination: aaaa::212:7403:3:303 | Prefix length: 128 | Next hop: fe80::212:7403:3:303
+18:04.888	ID:4	DATA send to 1: '18;9233'
+18:05.026	ID:5	RECV seq=18, latency=57904 ticks (63153 us | 63 ms) from 4
+18:24.611	ID:3	DATA send to 1: '18;47632'
+18:24.651	ID:5	RECV seq=18, latency=7218 ticks (89203 us | 89 ms) from 3
+18:57.440	ID:2	DATA send to 1: '18;30993'
+18:57.526	ID:5	RECV seq=18, latency=52520 ticks (29919 us | 29 ms) from 2
+19:01.270	ID:1	RPL status:
+19:01.272	ID:1	Joined DAG with instance ID: 30
+19:01.273	ID:1	Rank: 503
+19:01.274	ID:1	Routing table:
+19:01.282	ID:1	- Destination: aaaa::212:7404:4:404 | Prefix length: 128 | Next hop: fe80::212:7404:4:404
+19:01.290	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+19:01.298	ID:1	- Destination: aaaa::212:7403:3:303 | Prefix length: 128 | Next hop: fe80::212:7403:3:303
+19:10.858	ID:4	DATA send to 1: '19;8230'
+19:10.903	ID:5	RECV seq=19, latency=54858 ticks (101269 us | 101 ms) from 4
+19:25.495	ID:2	DATA send to 1: '19;32786'
+19:25.650	ID:5	RECV seq=19, latency=54807 ticks (99712 us | 99 ms) from 2
+19:36.072	ID:3	DATA send to 1: '19;29968'
+19:36.153	ID:5	RECV seq=19, latency=8539 ticks (129517 us | 129 ms) from 3
+20:01.270	ID:1	RPL status:
+20:01.272	ID:1	Joined DAG with instance ID: 30
+20:01.273	ID:1	Rank: 503
+20:01.274	ID:1	Routing table:
+20:01.282	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+20:01.290	ID:1	- Destination: aaaa::212:7404:4:404 | Prefix length: 128 | Next hop: fe80::212:7404:4:404
+20:01.298	ID:1	- Destination: aaaa::212:7403:3:303 | Prefix length: 128 | Next hop: fe80::212:7403:3:303
+20:10.433	ID:3	DATA send to 1: '20;41744'
+20:10.527	ID:5	RECV seq=20, latency=9030 ticks (13429 us | 13 ms) from 3
+20:20.154	ID:4	DATA send to 1: '20;50704'
+20:20.278	ID:5	RECV seq=20, latency=57436 ticks (48871 us | 48 ms) from 4
+20:40.128	ID:2	DATA send to 1: '20;53520'
+20:40.278	ID:5	RECV seq=20, latency=54646 ticks (94799 us | 94 ms) from 2
+21:01.270	ID:1	RPL status:
+21:01.272	ID:1	Joined DAG with instance ID: 30
+21:01.273	ID:1	Rank: 503
+21:01.274	ID:1	Routing table:
+21:01.282	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+21:01.290	ID:1	- Destination: aaaa::212:7404:4:404 | Prefix length: 128 | Next hop: fe80::212:7404:4:404
+21:01.298	ID:1	- Destination: aaaa::212:7403:3:303 | Prefix length: 128 | Next hop: fe80::212:7403:3:303
+21:50.503	ID:3	DATA send to 1: '21;44071'
+21:51.011	ID:2	DATA send to 1: '21;16912'
+21:56.490	ID:4	DATA send to 1: '21;61712'
+22:01.270	ID:1	RPL status:
+22:01.272	ID:1	Joined DAG with instance ID: 30
+22:01.273	ID:1	Rank: 65535
+22:01.274	ID:1	Routing table:
+22:01.282	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+22:01.290	ID:1	- Destination: aaaa::212:7404:4:404 | Prefix length: 128 | Next hop: fe80::212:7404:4:404
+22:01.298	ID:1	- Destination: aaaa::212:7403:3:303 | Prefix length: 128 | Next hop: fe80::212:7403:3:303
+22:41.237	ID:2	DATA send to 1: '22;24338'
+22:41.275	ID:5	RECV seq=22, latency=50937 ticks (112681 us | 112 ms) from 2
+22:54.275	ID:3	DATA send to 1: '22;36626'
+22:54.401	ID:5	RECV seq=22, latency=10038 ticks (44191 us | 44 ms) from 3
+22:58.373	ID:4	DATA send to 1: '22;57873'
+22:58.526	ID:5	RECV seq=22, latency=58403 ticks (78382 us | 78 ms) from 4
+23:01.270	ID:1	RPL status:
+23:01.272	ID:1	Joined DAG with instance ID: 30
+23:01.273	ID:1	Rank: 437
+23:01.274	ID:1	Routing table:
+23:01.282	ID:1	- Destination: aaaa::212:7403:3:303 | Prefix length: 128 | Next hop: fe80::212:7403:3:303
+23:01.290	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+23:01.298	ID:1	- Destination: aaaa::212:7404:4:404 | Prefix length: 128 | Next hop: fe80::212:7404:4:404
