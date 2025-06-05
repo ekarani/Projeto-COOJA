@@ -1,0 +1,650 @@
+00:00.506	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+00:00.515	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki 3.0 started. Node id is set to 2.
+00:00.523	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.534	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+00:00.536	ID:2	Starting 'UDP client process'
+00:00.538	ID:2	UDP client process started
+00:00.543	ID:2	Client IPv6 addresses: aaaa::212:7402:2:202
+00:00.546	ID:2	fe80::212:7402:2:202
+00:00.551	ID:2	Created a connection with the server :: local/remote port 8765/5678
+00:01.169	ID:5	Rime started with address 0.18.116.5.0.5.5.5
+00:01.178	ID:5	MAC 00:12:74:05:00:05:05:05 Contiki 3.0 started. Node id is set to 5.
+00:01.186	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.197	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7405:0005:0505
+00:01.199	ID:5	Starting 'UDP server process'
+00:01.201	ID:5	UDP server started
+00:01.205	ID:5	created a new RPL dag
+00:01.209	ID:5	Server IPv6 addresses: aaaa::212:7405:5:505
+00:01.211	ID:5	aaaa::ff:fe00:1
+00:01.214	ID:5	fe80::212:7405:5:505
+00:01.220	ID:5	Created a server connection with remote address :: local/remote port 5678/8765
+00:01.242	ID:1	Rime started with address 193.12.0.0.0.0.0.1
+00:01.249	ID:1	MAC c1:0c:00:00:00:00:00:01 Contiki 3.0 started. Node id is set to 1.
+00:01.254	ID:1	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.262	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:c30c:0000:0000:0001
+00:01.264	ID:1	Starting 'Intermediate Router'
+00:01.266	ID:1	Intermediate Router started
+00:01.269	ID:1	Global IPv6 address set: aaaa::c30c:0:0:1
+00:02.589	ID:2	DATA send to 1: '1;3100'
+00:04.253	ID:2	DATA send to 1: '2;57613'
+00:04.635	ID:2	DATA send to 1: '3;4621'
+00:06.362	ID:2	DATA send to 1: '4;61197'
+00:06.557	ID:2	DATA send to 1: '5;2061'
+00:08.027	ID:2	DATA send to 1: '6;50217'
+00:08.151	ID:5	RECV seq=6, latency=47754 ticks (15544 us | 15 ms) from 2
+00:08.940	ID:2	DATA send to 1: '7;14608'
+00:09.028	ID:5	RECV seq=7, latency=46537 ticks (109476 us | 109 ms) from 2
+00:09.573	ID:2	DATA send to 1: '8;35344'
+00:09.653	ID:5	RECV seq=8, latency=46275 ticks (101480 us | 101 ms) from 2
+00:10.550	ID:2	DATA send to 1: '9;1831'
+00:10.654	ID:5	RECV seq=9, latency=47038 ticks (124765 us | 124 ms) from 2
+00:12.534	ID:2	DATA send to 1: '10;1296'
+00:12.649	ID:5	RECV seq=10, latency=47485 ticks (7335 us | 7 ms) from 2
+00:13.378	ID:2	DATA send to 1: '11;28943'
+00:13.528	ID:5	RECV seq=11, latency=48590 ticks (41057 us | 41 ms) from 2
+00:13.895	ID:2	DATA send to 1: '12;45839'
+00:14.026	ID:5	RECV seq=12, latency=48025 ticks (23814 us | 23 ms) from 2
+00:15.464	ID:2	DATA send to 1: '13;31761'
+00:15.528	ID:5	RECV seq=13, latency=45771 ticks (86100 us | 86 ms) from 2
+00:16.510	ID:2	DATA send to 1: '14;528'
+00:16.654	ID:5	RECV seq=14, latency=48383 ticks (34739 us | 34 ms) from 2
+00:16.823	ID:2	DATA send to 1: '15;10769'
+00:16.900	ID:5	RECV seq=15, latency=46211 ticks (99527 us | 99 ms) from 2
+00:18.222	ID:2	DATA send to 1: '16;56592'
+00:18.277	ID:5	RECV seq=16, latency=45504 ticks (77951 us | 77 ms) from 2
+00:19.229	ID:2	DATA send to 1: '17;24080'
+00:19.278	ID:5	RECV seq=17, latency=45279 ticks (71085 us | 71 ms) from 2
+00:19.901	ID:2	DATA send to 1: '18;46095'
+00:20.024	ID:5	RECV seq=18, latency=47715 ticks (14354 us | 14 ms) from 2
+00:21.315	ID:2	DATA send to 1: '19;26895'
+00:21.401	ID:5	RECV seq=19, latency=46473 ticks (107523 us | 107 ms) from 2
+00:22.448	ID:2	DATA send to 1: '20;64015'
+00:22.525	ID:5	RECV seq=20, latency=46210 ticks (99497 us | 99 ms) from 2
+00:22.925	ID:2	DATA send to 1: '21;14095'
+00:23.027	ID:5	RECV seq=21, latency=47001 ticks (123636 us | 123 ms) from 2
+00:23.871	ID:2	DATA send to 1: '22;45095'
+00:24.026	ID:5	RECV seq=22, latency=48765 ticks (46397 us | 46 ms) from 2
+00:24.909	ID:2	DATA send to 1: '23;13583'
+00:25.026	ID:5	RECV seq=23, latency=47530 ticks (8708 us | 8 ms) from 2
+00:26.270	ID:2	DATA send to 1: '24;58128'
+00:26.401	ID:5	RECV seq=24, latency=48024 ticks (23784 us | 23 ms) from 2
+00:27.340	ID:2	DATA send to 1: '25;27689'
+00:27.401	ID:5	RECV seq=25, latency=45682 ticks (83384 us | 83 ms) from 2
+00:28.003	ID:2	DATA send to 1: '26;49424'
+00:28.153	ID:5	RECV seq=26, latency=48589 ticks (41026 us | 41 ms) from 2
+00:29.386	ID:2	DATA send to 1: '27;29200'
+00:29.527	ID:5	RECV seq=27, latency=48326 ticks (33000 us | 33 ms) from 2
+00:30.112	ID:2	DATA send to 1: '28;53008'
+00:30.152	ID:5	RECV seq=28, latency=44980 ticks (61960 us | 61 ms) from 2
+00:31.307	ID:2	DATA send to 1: '29;26639'
+00:31.401	ID:5	RECV seq=29, latency=46735 ticks (115519 us | 115 ms) from 2
+00:31.597	ID:2	DATA send to 1: '30;36111'
+00:31.652	ID:5	RECV seq=30, latency=45504 ticks (77951 us | 77 ms) from 2
+00:33.104	ID:2	DATA send to 1: '31;19983'
+00:33.150	ID:5	RECV seq=31, latency=45158 ticks (67392 us | 67 ms) from 2
+00:34.456	ID:2	DATA send to 1: '32;64271'
+00:34.525	ID:5	RECV seq=32, latency=45944 ticks (91379 us | 91 ms) from 2
+00:34.776	ID:2	DATA send to 1: '33;9231'
+00:34.900	ID:5	RECV seq=33, latency=47747 ticks (15330 us | 15 ms) from 2
+00:35.690	ID:2	DATA send to 1: '34;39184'
+00:35.776	ID:5	RECV seq=34, latency=46476 ticks (107614 us | 107 ms) from 2
+00:37.300	ID:2	DATA send to 1: '35;26383'
+00:37.402	ID:5	RECV seq=35, latency=47001 ticks (123636 us | 123 ms) from 2
+00:37.746	ID:2	DATA send to 1: '36;40999'
+00:37.901	ID:5	RECV seq=36, latency=48765 ticks (46397 us | 46 ms) from 2
+00:39.284	ID:2	DATA send to 1: '37;25871'
+00:39.401	ID:5	RECV seq=37, latency=47532 ticks (8769 us | 8 ms) from 2
+00:40.042	ID:2	DATA send to 1: '38;50703'
+00:40.150	ID:5	RECV seq=38, latency=47265 ticks (621 us | 0 ms) from 2
+00:40.645	ID:2	DATA send to 1: '39;4879'
+00:40.777	ID:5	RECV seq=39, latency=48058 ticks (24821 us | 24 ms) from 2
+00:42.214	ID:2	DATA send to 1: '40;56335'
+00:42.277	ID:5	RECV seq=40, latency=45768 ticks (86008 us | 86 ms) from 2
+00:43.378	ID:2	DATA send to 1: '41;28943'
+00:43.528	ID:5	RECV seq=41, latency=48590 ticks (41057 us | 41 ms) from 2
+00:44.261	ID:2	DATA send to 1: '42;57871'
+00:44.402	ID:5	RECV seq=42, latency=48327 ticks (33030 us | 33 ms) from 2
+00:45.487	ID:2	DATA send to 1: '43;32527'
+00:45.527	ID:5	RECV seq=43, latency=44979 ticks (61930 us | 61 ms) from 2
+00:46.183	ID:2	DATA send to 1: '44;55335'
+00:46.279	ID:5	RECV seq=44, latency=46792 ticks (117258 us | 117 ms) from 2
+00:46.972	ID:2	DATA send to 1: '45;15631'
+00:47.027	ID:5	RECV seq=45, latency=45503 ticks (77921 us | 77 ms) from 2
+00:47.979	ID:2	DATA send to 1: '46;48655'
+00:48.024	ID:5	RECV seq=46, latency=45156 ticks (67331 us | 67 ms) from 2
+00:48.831	ID:2	DATA send to 1: '47;11023'
+00:48.903	ID:5	RECV seq=47, latency=46032 ticks (94065 us | 94 ms) from 2
+00:49.652	ID:2	DATA send to 1: '48;37927'
+00:49.778	ID:5	RECV seq=48, latency=47797 ticks (16856 us | 16 ms) from 2
+00:51.065	ID:2	DATA send to 1: '49;18705'
+00:51.151	ID:5	RECV seq=49, latency=46475 ticks (107584 us | 107 ms) from 2
+00:51.675	ID:2	DATA send to 1: '50;38672'
+00:51.777	ID:5	RECV seq=50, latency=47003 ticks (123697 us | 123 ms) from 2
+00:52.620	ID:2	DATA send to 1: '51;4112'
+00:52.776	ID:5	RECV seq=51, latency=48798 ticks (47404 us | 47 ms) from 2
+00:53.659	ID:2	DATA send to 1: '52;38160'
+00:53.776	ID:5	RECV seq=52, latency=47537 ticks (8922 us | 8 ms) from 2
+00:54.917	ID:2	DATA send to 1: '53;13839'
+00:55.025	ID:5	RECV seq=53, latency=47265 ticks (621 us | 0 ms) from 2
+00:56.020	ID:2	DATA send to 1: '54;49935'
+00:56.151	ID:5	RECV seq=54, latency=48022 ticks (23723 us | 23 ms) from 2
+00:57.089	ID:2	DATA send to 1: '55;19471'
+00:57.153	ID:5	RECV seq=55, latency=45770 ticks (86069 us | 86 ms) from 2
+00:57.753	ID:2	DATA send to 1: '56;41231'
+00:57.903	ID:5	RECV seq=56, latency=48589 ticks (41026 us | 41 ms) from 2
+00:59.136	ID:2	DATA send to 1: '57;21007'
+00:59.277	ID:5	RECV seq=57, latency=48323 ticks (32908 us | 32 ms) from 2
+00:59.862	ID:2	DATA send to 1: '58;44815'
+00:59.902	ID:5	RECV seq=58, latency=44977 ticks (61869 us | 61 ms) from 2
+01:01.057	ID:2	DATA send to 1: '59;18447'
+01:01.151	ID:5	RECV seq=59, latency=46735 ticks (115519 us | 115 ms) from 2
+01:01.270	ID:1	RPL status:
+01:01.272	ID:1	Joined DAG with instance ID: 30
+01:01.273	ID:1	Rank: 512
+01:01.274	ID:1	Routing table:
+01:01.282	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+01:02.347	ID:2	DATA send to 1: '60;60687'
+01:02.402	ID:5	RECV seq=60, latency=45502 ticks (77890 us | 77 ms) from 2
+01:02.854	ID:2	DATA send to 1: '61;11791'
+01:02.902	ID:5	RECV seq=61, latency=45241 ticks (69925 us | 69 ms) from 2
+01:04.206	ID:2	DATA send to 1: '62;56079'
+01:04.275	ID:5	RECV seq=62, latency=45948 ticks (91501 us | 91 ms) from 2
+01:05.526	ID:2	DATA send to 1: '63;33811'
+01:05.653	ID:5	RECV seq=63, latency=47818 ticks (17497 us | 17 ms) from 2
+01:06.527	ID:2	DATA send to 1: '64;1064'
+01:06.650	ID:5	RECV seq=64, latency=47720 ticks (14506 us | 14 ms) from 2
+01:07.159	ID:2	DATA send to 1: '65;21775'
+01:07.278	ID:5	RECV seq=65, latency=47584 ticks (10356 us | 10 ms) from 2
+01:08.050	ID:2	DATA send to 1: '66;50959'
+01:08.152	ID:5	RECV seq=66, latency=47001 ticks (123636 us | 123 ms) from 2
+01:09.034	ID:2	DATA send to 1: '67;17679'
+01:09.151	ID:5	RECV seq=67, latency=47536 ticks (8891 us | 8 ms) from 2
+01:09.792	ID:2	DATA send to 1: '68;42511'
+01:09.901	ID:5	RECV seq=68, latency=47277 ticks (987 us | 0 ms) from 2
+01:11.395	ID:2	DATA send to 1: '69;29455'
+01:11.526	ID:5	RECV seq=69, latency=48023 ticks (23753 us | 23 ms) from 2
+01:11.964	ID:2	DATA send to 1: '70;48167'
+01:12.026	ID:5	RECV seq=70, latency=45681 ticks (83353 us | 83 ms) from 2
+01:13.128	ID:2	DATA send to 1: '71;20751'
+01:13.278	ID:5	RECV seq=71, latency=48588 ticks (40996 us | 40 ms) from 2
+01:14.011	ID:2	DATA send to 1: '72;49679'
+01:14.152	ID:5	RECV seq=72, latency=48327 ticks (33030 us | 33 ms) from 2
+01:15.237	ID:2	DATA send to 1: '73;24335'
+01:15.277	ID:5	RECV seq=73, latency=44977 ticks (61869 us | 61 ms) from 2
+01:15.933	ID:2	DATA send to 1: '74;47119'
+01:16.027	ID:5	RECV seq=74, latency=46735 ticks (115519 us | 115 ms) from 2
+01:16.721	ID:2	DATA send to 1: '75;7439'
+01:16.777	ID:5	RECV seq=75, latency=45482 ticks (77280 us | 77 ms) from 2
+01:17.729	ID:2	DATA send to 1: '76;40463'
+01:17.777	ID:5	RECV seq=76, latency=45241 ticks (69925 us | 69 ms) from 2
+01:18.581	ID:2	DATA send to 1: '77;2831'
+01:18.652	ID:5	RECV seq=77, latency=46005 ticks (93241 us | 93 ms) from 2
+01:20.402	ID:2	DATA send to 1: '78;62503'
+01:20.528	ID:5	RECV seq=78, latency=47797 ticks (16856 us | 16 ms) from 2
+01:20.815	ID:2	DATA send to 1: '79;10511'
+01:20.901	ID:5	RECV seq=79, latency=46473 ticks (107523 us | 107 ms) from 2
+01:21.948	ID:2	DATA send to 1: '80;47631'
+01:22.025	ID:5	RECV seq=80, latency=46210 ticks (99497 us | 99 ms) from 2
+01:23.425	ID:2	DATA send to 1: '81;30479'
+01:23.527	ID:5	RECV seq=81, latency=47001 ticks (123636 us | 123 ms) from 2
+01:24.370	ID:2	DATA send to 1: '82;61455'
+01:24.525	ID:5	RECV seq=82, latency=48766 ticks (46428 us | 46 ms) from 2
+01:25.409	ID:2	DATA send to 1: '83;29967'
+01:25.526	ID:5	RECV seq=83, latency=47535 ticks (8861 us | 8 ms) from 2
+01:25.667	ID:2	DATA send to 1: '84;38415'
+01:25.775	ID:5	RECV seq=84, latency=47265 ticks (621 us | 0 ms) from 2
+01:26.770	ID:2	DATA send to 1: '85;8975'
+01:26.902	ID:5	RECV seq=85, latency=48058 ticks (24821 us | 24 ms) from 2
+01:27.839	ID:2	DATA send to 1: '86;44047'
+01:27.902	ID:5	RECV seq=86, latency=45767 ticks (85977 us | 85 ms) from 2
+01:29.503	ID:2	DATA send to 1: '87;33039'
+01:29.653	ID:5	RECV seq=87, latency=48589 ticks (41026 us | 41 ms) from 2
+01:29.972	ID:2	DATA send to 1: '88;48400'
+01:30.027	ID:5	RECV seq=88, latency=45502 ticks (77890 us | 77 ms) from 2
+01:30.612	ID:2	DATA send to 1: '89;3855'
+01:30.651	ID:5	RECV seq=89, latency=44959 ticks (61319 us | 61 ms) from 2
+01:31.808	ID:2	DATA send to 1: '90;43023'
+01:31.901	ID:5	RECV seq=90, latency=46735 ticks (115519 us | 115 ms) from 2
+01:33.097	ID:2	DATA send to 1: '91;19727'
+01:33.152	ID:5	RECV seq=91, latency=45503 ticks (77921 us | 77 ms) from 2
+01:33.604	ID:2	DATA send to 1: '92;36367'
+01:33.649	ID:5	RECV seq=92, latency=45155 ticks (67301 us | 67 ms) from 2
+01:34.956	ID:2	DATA send to 1: '93;15119'
+01:35.025	ID:5	RECV seq=93, latency=45945 ticks (91410 us | 91 ms) from 2
+01:36.276	ID:2	DATA send to 1: '94;58383'
+01:36.399	ID:5	RECV seq=94, latency=47714 ticks (14323 us | 14 ms) from 2
+01:37.190	ID:2	DATA send to 1: '95;22799'
+01:37.276	ID:5	RECV seq=95, latency=46477 ticks (107645 us | 107 ms) from 2
+01:37.823	ID:2	DATA send to 1: '96;43535'
+01:37.900	ID:5	RECV seq=96, latency=46206 ticks (99375 us | 99 ms) from 2
+01:38.799	ID:2	DATA send to 1: '97;9999'
+01:38.903	ID:5	RECV seq=97, latency=47048 ticks (125071 us | 125 ms) from 2
+01:40.245	ID:2	DATA send to 1: '98;57359'
+01:40.400	ID:5	RECV seq=98, latency=48765 ticks (46397 us | 46 ms) from 2
+01:40.784	ID:2	DATA send to 1: '99;9487'
+01:40.899	ID:5	RECV seq=99, latency=47484 ticks (7304 us | 7 ms) from 2
+01:42.542	ID:2	DATA send to 1: '100;1552'
+01:42.650	ID:5	RECV seq=100, latency=47262 ticks (529 us | 0 ms) from 2
+01:43.230	ID:2	DATA send to 1: '101;24079'
+01:43.279	ID:5	RECV seq=101, latency=45289 ticks (71390 us | 71 ms) from 2
+01:43.714	ID:2	DATA send to 1: '102;39951'
+01:43.776	ID:5	RECV seq=102, latency=45701 ticks (83963 us | 83 ms) from 2
+01:44.878	ID:2	DATA send to 1: '103;12559'
+01:45.027	ID:5	RECV seq=103, latency=48552 ticks (39897 us | 39 ms) from 2
+01:45.761	ID:2	DATA send to 1: '104;41487'
+01:45.901	ID:5	RECV seq=104, latency=48286 ticks (31779 us | 31 ms) from 2
+01:46.682	ID:2	DATA send to 1: '105;6160'
+01:46.777	ID:5	RECV seq=105, latency=46732 ticks (115427 us | 115 ms) from 2
+01:48.472	ID:2	DATA send to 1: '106;64784'
+01:48.528	ID:5	RECV seq=106, latency=45523 ticks (78531 us | 78 ms) from 2
+01:49.480	ID:2	DATA send to 1: '107;32272'
+01:49.528	ID:5	RECV seq=107, latency=45257 ticks (70414 us | 70 ms) from 2
+01:50.331	ID:2	DATA send to 1: '108;60175'
+01:50.401	ID:5	RECV seq=108, latency=45969 ticks (92142 us | 92 ms) from 2
+01:51.152	ID:2	DATA send to 1: '109;21543'
+01:51.277	ID:5	RECV seq=109, latency=47755 ticks (15574 us | 15 ms) from 2
+01:51.565	ID:2	DATA send to 1: '110;35087'
+01:51.652	ID:5	RECV seq=110, latency=46502 ticks (108408 us | 108 ms) from 2
+01:52.698	ID:2	DATA send to 1: '111;6671'
+01:52.775	ID:5	RECV seq=111, latency=46203 ticks (99283 us | 99 ms) from 2
+01:54.175	ID:2	DATA send to 1: '112;55055'
+01:54.278	ID:5	RECV seq=112, latency=47038 ticks (124765 us | 124 ms) from 2
+01:55.120	ID:2	DATA send to 1: '113;20495'
+01:55.278	ID:5	RECV seq=113, latency=48868 ticks (49541 us | 49 ms) from 2
+01:56.159	ID:2	DATA send to 1: '114;54543'
+01:56.278	ID:5	RECV seq=114, latency=47576 ticks (10112 us | 10 ms) from 2
+01:57.417	ID:2	DATA send to 1: '115;30223'
+01:57.527	ID:5	RECV seq=115, latency=47306 ticks (1872 us | 1 ms) from 2
+01:58.519	ID:2	DATA send to 1: '116;783'
+01:58.652	ID:5	RECV seq=116, latency=48057 ticks (24791 us | 24 ms) from 2
+01:58.674	ID:2	DATA send to 1: '117;5903'
+01:58.777	ID:5	RECV seq=117, latency=46996 ticks (123484 us | 123 ms) from 2
+02:00.253	ID:2	DATA send to 1: '118;57615'
+02:00.402	ID:5	RECV seq=118, latency=48551 ticks (39866 us | 39 ms) from 2
+02:00.635	ID:2	DATA send to 1: '119;4623'
+02:00.778	ID:5	RECV seq=119, latency=48326 ticks (33000 us | 33 ms) from 2
+02:01.270	ID:1	RPL status:
+02:01.272	ID:1	Joined DAG with instance ID: 30
+02:01.273	ID:1	Rank: 512
+02:01.274	ID:1	Routing table:
+02:01.282	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+02:02.362	ID:2	DATA send to 1: '120;61199'
+02:02.400	ID:5	RECV seq=120, latency=44903 ticks (59610 us | 59 ms) from 2
+02:02.557	ID:2	DATA send to 1: '121;2063'
+02:02.651	ID:5	RECV seq=121, latency=46730 ticks (115366 us | 115 ms) from 2
+02:03.847	ID:2	DATA send to 1: '122;44303'
+02:03.903	ID:5	RECV seq=122, latency=45522 ticks (78501 us | 78 ms) from 2
+02:05.355	ID:2	DATA send to 1: '123;28175'
+02:05.403	ID:5	RECV seq=123, latency=45253 ticks (70291 us | 70 ms) from 2
+02:05.706	ID:2	DATA send to 1: '124;39695'
+02:05.776	ID:5	RECV seq=124, latency=45968 ticks (92112 us | 92 ms) from 2
+02:07.026	ID:2	DATA send to 1: '125;17423'
+02:07.151	ID:5	RECV seq=125, latency=47750 ticks (15422 us | 15 ms) from 2
+02:07.940	ID:2	DATA send to 1: '126;47375'
+02:08.028	ID:5	RECV seq=126, latency=46513 ticks (108744 us | 108 ms) from 2
+02:08.573	ID:2	DATA send to 1: '127;2575'
+02:08.650	ID:5	RECV seq=127, latency=46203 ticks (99283 us | 99 ms) from 2
+02:09.550	ID:2	DATA send to 1: '128;34596'
+02:09.654	ID:5	RECV seq=128, latency=47035 ticks (124674 us | 124 ms) from 2
+02:10.995	ID:2	DATA send to 1: '129;16399'
+02:11.152	ID:5	RECV seq=129, latency=48821 ticks (48106 us | 48 ms) from 2
+02:12.534	ID:2	DATA send to 1: '130;1296'
+02:12.651	ID:5	RECV seq=130, latency=47523 ticks (8494 us | 8 ms) from 2
+02:13.378	ID:2	DATA send to 1: '131;28943'
+02:13.527	ID:5	RECV seq=131, latency=48552 ticks (39897 us | 39 ms) from 2
+02:14.464	ID:2	DATA send to 1: '132;64528'
+02:14.526	ID:5	RECV seq=132, latency=45699 ticks (83902 us | 83 ms) from 2
+02:15.511	ID:2	DATA send to 1: '133;33295'
+02:15.651	ID:5	RECV seq=133, latency=48284 ticks (31718 us | 31 ms) from 2
+02:15.823	ID:2	DATA send to 1: '134;43536'
+02:15.902	ID:5	RECV seq=134, latency=46235 ticks (100260 us | 100 ms) from 2
+02:17.433	ID:2	DATA send to 1: '135;30735'
+02:17.528	ID:5	RECV seq=135, latency=46773 ticks (116678 us | 116 ms) from 2
+02:18.222	ID:2	DATA send to 1: '136;56591'
+02:18.278	ID:5	RECV seq=136, latency=45528 ticks (78684 us | 78 ms) from 2
+02:19.230	ID:2	DATA send to 1: '137;24079'
+02:19.279	ID:5	RECV seq=137, latency=45286 ticks (71299 us | 71 ms) from 2
+02:20.081	ID:2	DATA send to 1: '138;51983'
+02:20.151	ID:5	RECV seq=138, latency=45968 ticks (92112 us | 92 ms) from 2
+02:20.901	ID:2	DATA send to 1: '139;13327'
+02:21.026	ID:5	RECV seq=139, latency=47751 ticks (15452 us | 15 ms) from 2
+02:21.925	ID:2	DATA send to 1: '140;46863'
+02:22.025	ID:5	RECV seq=140, latency=46951 ticks (122110 us | 122 ms) from 2
+02:22.870	ID:2	DATA send to 1: '141;12303'
+02:23.027	ID:5	RECV seq=141, latency=48821 ticks (48106 us | 48 ms) from 2
+02:23.909	ID:2	DATA send to 1: '142;46351'
+02:24.028	ID:5	RECV seq=142, latency=47573 ticks (10020 us | 10 ms) from 2
+02:25.167	ID:2	DATA send to 1: '143;22031'
+02:25.277	ID:5	RECV seq=143, latency=47306 ticks (1872 us | 1 ms) from 2
+02:26.270	ID:2	DATA send to 1: '144;58127'
+02:26.402	ID:5	RECV seq=144, latency=48068 ticks (25126 us | 25 ms) from 2
+02:27.340	ID:2	DATA send to 1: '145;27687'
+02:27.401	ID:5	RECV seq=145, latency=45701 ticks (83963 us | 83 ms) from 2
+02:28.003	ID:2	DATA send to 1: '146;49423'
+02:28.152	ID:5	RECV seq=146, latency=48551 ticks (39866 us | 39 ms) from 2
+02:29.386	ID:2	DATA send to 1: '147;29199'
+02:29.526	ID:5	RECV seq=147, latency=48284 ticks (31718 us | 31 ms) from 2
+02:30.112	ID:2	DATA send to 1: '148;53007'
+02:30.150	ID:5	RECV seq=148, latency=44903 ticks (59610 us | 59 ms) from 2
+02:31.308	ID:2	DATA send to 1: '149;26639'
+02:31.403	ID:5	RECV seq=149, latency=46771 ticks (116617 us | 116 ms) from 2
+02:31.597	ID:2	DATA send to 1: '150;36111'
+02:31.653	ID:5	RECV seq=150, latency=45522 ticks (78501 us | 78 ms) from 2
+02:33.105	ID:2	DATA send to 1: '151;19983'
+02:33.153	ID:5	RECV seq=151, latency=45253 ticks (70291 us | 70 ms) from 2
+02:34.456	ID:2	DATA send to 1: '152;64271'
+02:34.526	ID:5	RECV seq=152, latency=45968 ticks (92112 us | 92 ms) from 2
+02:34.776	ID:2	DATA send to 1: '153;9231'
+02:34.902	ID:5	RECV seq=153, latency=47790 ticks (16643 us | 16 ms) from 2
+02:35.690	ID:2	DATA send to 1: '154;39183'
+02:35.778	ID:5	RECV seq=154, latency=46516 ticks (108835 us | 108 ms) from 2
+02:37.323	ID:2	DATA send to 1: '155;27151'
+02:37.402	ID:5	RECV seq=155, latency=46234 ticks (100229 us | 100 ms) from 2
+02:38.300	ID:2	DATA send to 1: '156;59151'
+02:38.403	ID:5	RECV seq=156, latency=47039 ticks (124796 us | 124 ms) from 2
+02:38.745	ID:2	DATA send to 1: '157;8207'
+02:38.903	ID:5	RECV seq=157, latency=48846 ticks (48869 us | 48 ms) from 2
+02:40.284	ID:2	DATA send to 1: '158;58639'
+02:40.402	ID:5	RECV seq=158, latency=47571 ticks (9959 us | 9 ms) from 2
+02:41.042	ID:2	DATA send to 1: '159;17935'
+02:41.152	ID:5	RECV seq=159, latency=47302 ticks (1750 us | 1 ms) from 2
+02:41.645	ID:2	DATA send to 1: '160;37647'
+02:41.777	ID:5	RECV seq=160, latency=48067 ticks (25096 us | 25 ms) from 2
+02:43.214	ID:2	DATA send to 1: '161;23567'
+02:43.276	ID:5	RECV seq=161, latency=45703 ticks (84024 us | 84 ms) from 2
+02:44.378	ID:2	DATA send to 1: '162;61711'
+02:44.527	ID:5	RECV seq=162, latency=48552 ticks (39897 us | 39 ms) from 2
+02:45.261	ID:2	DATA send to 1: '163;25103'
+02:45.401	ID:5	RECV seq=163, latency=48284 ticks (31718 us | 31 ms) from 2
+02:46.487	ID:2	DATA send to 1: '164;65295'
+02:46.527	ID:5	RECV seq=164, latency=44990 ticks (62265 us | 62 ms) from 2
+02:47.183	ID:2	DATA send to 1: '165;22543'
+02:47.279	ID:5	RECV seq=165, latency=46805 ticks (117655 us | 117 ms) from 2
+02:47.972	ID:2	DATA send to 1: '166;48399'
+02:48.028	ID:5	RECV seq=166, latency=45522 ticks (78501 us | 78 ms) from 2
+02:48.980	ID:2	DATA send to 1: '167;15887'
+02:49.028	ID:5	RECV seq=167, latency=45254 ticks (70322 us | 70 ms) from 2
+02:49.831	ID:2	DATA send to 1: '168;43791'
+02:49.901	ID:5	RECV seq=168, latency=45968 ticks (92112 us | 92 ms) from 2
+02:50.651	ID:2	DATA send to 1: '169;5135'
+02:50.777	ID:5	RECV seq=169, latency=47791 ticks (16673 us | 16 ms) from 2
+02:52.065	ID:2	DATA send to 1: '170;51471'
+02:52.152	ID:5	RECV seq=170, latency=46502 ticks (108408 us | 108 ms) from 2
+02:53.198	ID:2	DATA send to 1: '171;23055'
+02:53.277	ID:5	RECV seq=171, latency=46236 ticks (100290 us | 100 ms) from 2
+02:53.675	ID:2	DATA send to 1: '172;38671'
+02:53.778	ID:5	RECV seq=172, latency=47038 ticks (124765 us | 124 ms) from 2
+02:54.620	ID:2	DATA send to 1: '173;4114'
+02:54.776	ID:5	RECV seq=173, latency=48778 ticks (46794 us | 46 ms) from 2
+02:55.659	ID:2	DATA send to 1: '174;38159'
+02:55.777	ID:5	RECV seq=174, latency=47572 ticks (9990 us | 9 ms) from 2
+02:57.020	ID:2	DATA send to 1: '175;17168'
+02:57.152	ID:5	RECV seq=175, latency=48066 ticks (25065 us | 25 ms) from 2
+02:58.090	ID:2	DATA send to 1: '176;52265'
+02:58.151	ID:5	RECV seq=176, latency=45701 ticks (83963 us | 83 ms) from 2
+02:58.753	ID:2	DATA send to 1: '177;8464'
+02:58.903	ID:5	RECV seq=177, latency=48587 ticks (40965 us | 40 ms) from 2
+03:00.136	ID:2	DATA send to 1: '178;53775'
+03:00.276	ID:5	RECV seq=178, latency=48286 ticks (31779 us | 31 ms) from 2
+03:00.862	ID:2	DATA send to 1: '179;12047'
+03:00.900	ID:5	RECV seq=179, latency=44903 ticks (59610 us | 59 ms) from 2
+03:01.270	ID:1	RPL status:
+03:01.272	ID:1	Joined DAG with instance ID: 30
+03:01.273	ID:1	Rank: 512
+03:01.274	ID:1	Routing table:
+03:01.282	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+03:02.058	ID:2	DATA send to 1: '180;51215'
+03:02.153	ID:5	RECV seq=180, latency=46771 ticks (116617 us | 116 ms) from 2
+03:03.347	ID:2	DATA send to 1: '181;27919'
+03:03.403	ID:5	RECV seq=181, latency=45522 ticks (78501 us | 78 ms) from 2
+03:03.855	ID:2	DATA send to 1: '182;44559'
+03:03.903	ID:5	RECV seq=182, latency=45253 ticks (70291 us | 70 ms) from 2
+03:05.206	ID:2	DATA send to 1: '183;23311'
+03:05.276	ID:5	RECV seq=183, latency=45969 ticks (92142 us | 92 ms) from 2
+03:06.527	ID:2	DATA send to 1: '184;1064'
+03:06.651	ID:5	RECV seq=184, latency=47725 ticks (14659 us | 14 ms) from 2
+03:07.527	ID:2	DATA send to 1: '185;33811'
+03:07.652	ID:5	RECV seq=185, latency=47807 ticks (17161 us | 17 ms) from 2
+03:08.159	ID:2	DATA send to 1: '186;54543'
+03:08.278	ID:5	RECV seq=186, latency=47576 ticks (10112 us | 10 ms) from 2
+03:09.050	ID:2	DATA send to 1: '187;18191'
+03:09.153	ID:5	RECV seq=187, latency=47039 ticks (124796 us | 124 ms) from 2
+03:10.494	ID:2	DATA send to 1: '188;18'
+03:10.653	ID:5	RECV seq=188, latency=48860 ticks (49296 us | 49 ms) from 2
+03:11.121	ID:2	DATA send to 1: '189;20519'
+03:11.278	ID:5	RECV seq=189, latency=48832 ticks (48442 us | 48 ms) from 2
+03:11.792	ID:2	DATA send to 1: '190;42511'
+03:11.902	ID:5	RECV seq=190, latency=47306 ticks (1872 us | 1 ms) from 2
+03:13.395	ID:2	DATA send to 1: '191;29455'
+03:13.528	ID:5	RECV seq=191, latency=48070 ticks (25187 us | 25 ms) from 2
+03:13.964	ID:2	DATA send to 1: '192;48143'
+03:14.026	ID:5	RECV seq=192, latency=45701 ticks (83963 us | 83 ms) from 2
+03:15.128	ID:2	DATA send to 1: '193;20751'
+03:15.277	ID:5	RECV seq=193, latency=48565 ticks (40294 us | 40 ms) from 2
+03:16.011	ID:2	DATA send to 1: '194;49679'
+03:16.151	ID:5	RECV seq=194, latency=48284 ticks (31718 us | 31 ms) from 2
+03:17.237	ID:2	DATA send to 1: '195;24335'
+03:17.275	ID:5	RECV seq=195, latency=44903 ticks (59610 us | 59 ms) from 2
+03:17.933	ID:2	DATA send to 1: '196;47119'
+03:18.028	ID:5	RECV seq=196, latency=46771 ticks (116617 us | 116 ms) from 2
+03:18.721	ID:2	DATA send to 1: '197;7439'
+03:18.777	ID:5	RECV seq=197, latency=45500 ticks (77829 us | 77 ms) from 2
+03:19.730	ID:2	DATA send to 1: '198;40463'
+03:19.778	ID:5	RECV seq=198, latency=45253 ticks (70291 us | 70 ms) from 2
+03:20.581	ID:2	DATA send to 1: '199;2831'
+03:20.653	ID:5	RECV seq=199, latency=46028 ticks (93943 us | 93 ms) from 2
+03:22.401	ID:2	DATA send to 1: '200;62479'
+03:22.526	ID:5	RECV seq=200, latency=47751 ticks (15452 us | 15 ms) from 2
+03:22.815	ID:2	DATA send to 1: '201;10511'
+03:22.902	ID:5	RECV seq=201, latency=46502 ticks (108408 us | 108 ms) from 2
+03:23.948	ID:2	DATA send to 1: '202;47631'
+03:24.027	ID:5	RECV seq=202, latency=46234 ticks (100229 us | 100 ms) from 2
+03:25.425	ID:2	DATA send to 1: '203;30479'
+03:25.528	ID:5	RECV seq=203, latency=47038 ticks (124765 us | 124 ms) from 2
+03:26.370	ID:2	DATA send to 1: '204;61455'
+03:26.525	ID:5	RECV seq=204, latency=48740 ticks (45634 us | 45 ms) from 2
+03:27.409	ID:2	DATA send to 1: '205;29967'
+03:27.527	ID:5	RECV seq=205, latency=47572 ticks (9990 us | 9 ms) from 2
+03:27.667	ID:2	DATA send to 1: '206;38415'
+03:27.777	ID:5	RECV seq=206, latency=47306 ticks (1872 us | 1 ms) from 2
+03:28.770	ID:2	DATA send to 1: '207;8975'
+03:28.901	ID:5	RECV seq=207, latency=48012 ticks (23417 us | 23 ms) from 2
+03:29.839	ID:2	DATA send to 1: '208;44047'
+03:29.901	ID:5	RECV seq=208, latency=45701 ticks (83963 us | 83 ms) from 2
+03:31.503	ID:2	DATA send to 1: '209;33039'
+03:31.652	ID:5	RECV seq=209, latency=48564 ticks (40263 us | 40 ms) from 2
+03:31.972	ID:2	DATA send to 1: '210;48400'
+03:32.028	ID:5	RECV seq=210, latency=45521 ticks (78470 us | 78 ms) from 2
+03:32.612	ID:2	DATA send to 1: '211;3855'
+03:32.652	ID:5	RECV seq=211, latency=44970 ticks (61655 us | 61 ms) from 2
+03:33.808	ID:2	DATA send to 1: '212;43047'
+03:33.904	ID:5	RECV seq=212, latency=46776 ticks (116770 us | 116 ms) from 2
+03:35.097	ID:2	DATA send to 1: '213;19727'
+03:35.153	ID:5	RECV seq=213, latency=45523 ticks (78531 us | 78 ms) from 2
+03:35.605	ID:2	DATA send to 1: '214;36367'
+03:35.653	ID:5	RECV seq=214, latency=45253 ticks (70291 us | 70 ms) from 2
+03:36.956	ID:2	DATA send to 1: '215;15119'
+03:37.026	ID:5	RECV seq=215, latency=45966 ticks (92050 us | 92 ms) from 2
+03:38.276	ID:2	DATA send to 1: '216;58383'
+03:38.401	ID:5	RECV seq=216, latency=47752 ticks (15483 us | 15 ms) from 2
+03:39.190	ID:2	DATA send to 1: '217;22799'
+03:39.279	ID:5	RECV seq=217, latency=46546 ticks (109751 us | 109 ms) from 2
+03:39.823	ID:2	DATA send to 1: '218;43536'
+03:39.902	ID:5	RECV seq=218, latency=46235 ticks (100260 us | 100 ms) from 2
+03:40.799	ID:2	DATA send to 1: '219;9999'
+03:40.902	ID:5	RECV seq=219, latency=46996 ticks (123484 us | 123 ms) from 2
+03:42.246	ID:2	DATA send to 1: '220;57383'
+03:42.403	ID:5	RECV seq=220, latency=48825 ticks (48228 us | 48 ms) from 2
+03:42.784	ID:2	DATA send to 1: '221;9487'
+03:42.901	ID:5	RECV seq=221, latency=47535 ticks (8861 us | 8 ms) from 2
+03:44.542	ID:2	DATA send to 1: '222;1552'
+03:44.650	ID:5	RECV seq=222, latency=47258 ticks (407 us | 0 ms) from 2
+03:45.230	ID:2	DATA send to 1: '223;24079'
+03:45.278	ID:5	RECV seq=223, latency=45272 ticks (70871 us | 70 ms) from 2
+03:45.715	ID:2	DATA send to 1: '224;39975'
+03:45.776	ID:5	RECV seq=224, latency=45702 ticks (83994 us | 83 ms) from 2
+03:46.987	ID:2	DATA send to 1: '225;16143'
+03:47.025	ID:5	RECV seq=225, latency=44903 ticks (59610 us | 59 ms) from 2
+03:47.683	ID:2	DATA send to 1: '226;38951'
+03:47.779	ID:5	RECV seq=226, latency=46775 ticks (116739 us | 116 ms) from 2
+03:49.472	ID:2	DATA send to 1: '227;32015'
+03:49.528	ID:5	RECV seq=227, latency=45522 ticks (78501 us | 78 ms) from 2
+03:50.480	ID:2	DATA send to 1: '228;65039'
+03:50.528	ID:5	RECV seq=228, latency=45253 ticks (70291 us | 70 ms) from 2
+03:51.331	ID:2	DATA send to 1: '229;27407'
+03:51.401	ID:5	RECV seq=229, latency=45969 ticks (92142 us | 92 ms) from 2
+03:52.151	ID:2	DATA send to 1: '230;54287'
+03:52.276	ID:5	RECV seq=230, latency=47753 ticks (15513 us | 15 ms) from 2
+03:52.565	ID:2	DATA send to 1: '231;2319'
+03:52.651	ID:5	RECV seq=231, latency=46470 ticks (107431 us | 107 ms) from 2
+03:53.698	ID:2	DATA send to 1: '232;39439'
+03:53.777	ID:5	RECV seq=232, latency=46236 ticks (100290 us | 100 ms) from 2
+03:55.175	ID:2	DATA send to 1: '233;22287'
+03:55.278	ID:5	RECV seq=233, latency=47043 ticks (124918 us | 124 ms) from 2
+03:56.121	ID:2	DATA send to 1: '234;53287'
+03:56.278	ID:5	RECV seq=234, latency=48832 ticks (48442 us | 48 ms) from 2
+03:57.159	ID:2	DATA send to 1: '235;21775'
+03:57.278	ID:5	RECV seq=235, latency=47576 ticks (10112 us | 10 ms) from 2
+03:58.417	ID:2	DATA send to 1: '236;62991'
+03:58.527	ID:5	RECV seq=236, latency=47306 ticks (1872 us | 1 ms) from 2
+03:59.520	ID:2	DATA send to 1: '237;33551'
+03:59.653	ID:5	RECV seq=237, latency=48075 ticks (25340 us | 25 ms) from 2
+03:59.675	ID:2	DATA send to 1: '238;38671'
+03:59.778	ID:5	RECV seq=238, latency=47038 ticks (124765 us | 124 ms) from 2
+04:01.253	ID:2	DATA send to 1: '239;24847'
+04:01.270	ID:1	RPL status:
+04:01.272	ID:1	Joined DAG with instance ID: 30
+04:01.273	ID:1	Rank: 512
+04:01.274	ID:1	Routing table:
+04:01.282	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+04:01.402	ID:5	RECV seq=239, latency=48552 ticks (39897 us | 39 ms) from 2
+04:01.636	ID:2	DATA send to 1: '240;37391'
+04:01.777	ID:5	RECV seq=240, latency=48291 ticks (31932 us | 31 ms) from 2
+04:03.362	ID:2	DATA send to 1: '241;28431'
+04:03.400	ID:5	RECV seq=241, latency=44902 ticks (59580 us | 59 ms) from 2
+04:03.558	ID:2	DATA send to 1: '242;34831'
+04:03.653	ID:5	RECV seq=242, latency=46767 ticks (116495 us | 116 ms) from 2
+04:04.847	ID:2	DATA send to 1: '243;11535'
+04:04.903	ID:5	RECV seq=243, latency=45522 ticks (78501 us | 78 ms) from 2
+04:06.355	ID:2	DATA send to 1: '244;60943'
+04:06.403	ID:5	RECV seq=244, latency=45253 ticks (70291 us | 70 ms) from 2
+04:06.706	ID:2	DATA send to 1: '245;6927'
+04:06.778	ID:5	RECV seq=245, latency=46028 ticks (93943 us | 93 ms) from 2
+04:08.027	ID:2	DATA send to 1: '246;50215'
+04:08.152	ID:5	RECV seq=246, latency=47754 ticks (15544 us | 15 ms) from 2
+04:08.940	ID:2	DATA send to 1: '247;14607'
+04:09.027	ID:5	RECV seq=247, latency=46502 ticks (108408 us | 108 ms) from 2
+04:09.573	ID:2	DATA send to 1: '248;35343'
+04:09.652	ID:5	RECV seq=248, latency=46233 ticks (100199 us | 100 ms) from 2
+04:10.550	ID:2	DATA send to 1: '249;1828'
+04:10.653	ID:5	RECV seq=249, latency=47002 ticks (123667 us | 123 ms) from 2
+04:11.995	ID:2	DATA send to 1: '250;49167'
+04:12.152	ID:5	RECV seq=250, latency=48823 ticks (48167 us | 48 ms) from 2
+04:13.534	ID:2	DATA send to 1: '251;34064'
+04:13.652	ID:5	RECV seq=251, latency=47572 ticks (9990 us | 9 ms) from 2
+04:14.378	ID:2	DATA send to 1: '252;61711'
+04:14.527	ID:5	RECV seq=252, latency=48552 ticks (39897 us | 39 ms) from 2
+04:14.895	ID:2	DATA send to 1: '253;13071'
+04:15.028	ID:5	RECV seq=253, latency=48069 ticks (25157 us | 25 ms) from 2
+04:16.465	ID:2	DATA send to 1: '254;64551'
+04:16.526	ID:5	RECV seq=254, latency=45703 ticks (84024 us | 84 ms) from 2
+04:16.628	ID:2	DATA send to 1: '255;4367'
+04:16.778	ID:5	RECV seq=255, latency=48583 ticks (40843 us | 40 ms) from 2
+04:18.510	ID:2	DATA send to 1: '256;527'
+04:18.651	ID:5	RECV seq=256, latency=48267 ticks (31199 us | 31 ms) from 2
+04:18.823	ID:2	DATA send to 1: '257;10768'
+04:18.902	ID:5	RECV seq=257, latency=46236 ticks (100290 us | 100 ms) from 2
+04:20.433	ID:2	DATA send to 1: '258;63503'
+04:20.525	ID:5	RECV seq=258, latency=46692 ticks (114206 us | 114 ms) from 2
+04:21.222	ID:2	DATA send to 1: '259;23823'
+04:21.278	ID:5	RECV seq=259, latency=45528 ticks (78684 us | 78 ms) from 2
+04:22.230	ID:2	DATA send to 1: '260;56847'
+04:22.279	ID:5	RECV seq=260, latency=45286 ticks (71299 us | 71 ms) from 2
+04:23.081	ID:2	DATA send to 1: '261;19215'
+04:23.151	ID:5	RECV seq=261, latency=45968 ticks (92112 us | 92 ms) from 2
+04:23.901	ID:2	DATA send to 1: '262;46095'
+04:24.026	ID:5	RECV seq=262, latency=47751 ticks (15452 us | 15 ms) from 2
+04:25.315	ID:2	DATA send to 1: '263;26896'
+04:25.402	ID:5	RECV seq=263, latency=46502 ticks (108408 us | 108 ms) from 2
+04:25.925	ID:2	DATA send to 1: '264;46863'
+04:26.028	ID:5	RECV seq=264, latency=47038 ticks (124765 us | 124 ms) from 2
+04:26.871	ID:2	DATA send to 1: '265;12327'
+04:27.028	ID:5	RECV seq=265, latency=48824 ticks (48198 us | 48 ms) from 2
+04:27.909	ID:2	DATA send to 1: '266;46351'
+04:28.027	ID:5	RECV seq=266, latency=47571 ticks (9959 us | 9 ms) from 2
+04:29.167	ID:2	DATA send to 1: '267;22031'
+04:29.277	ID:5	RECV seq=267, latency=47306 ticks (1872 us | 1 ms) from 2
+04:30.270	ID:2	DATA send to 1: '268;58127'
+04:30.402	ID:5	RECV seq=268, latency=48067 ticks (25096 us | 25 ms) from 2
+04:31.339	ID:2	DATA send to 1: '269;27663'
+04:31.401	ID:5	RECV seq=269, latency=45701 ticks (83963 us | 83 ms) from 2
+04:32.003	ID:2	DATA send to 1: '270;49423'
+04:32.152	ID:5	RECV seq=270, latency=48553 ticks (39927 us | 39 ms) from 2
+04:33.386	ID:2	DATA send to 1: '271;29199'
+04:33.526	ID:5	RECV seq=271, latency=48285 ticks (31749 us | 31 ms) from 2
+04:34.112	ID:2	DATA send to 1: '272;53007'
+04:34.150	ID:5	RECV seq=272, latency=44902 ticks (59580 us | 59 ms) from 2
+04:35.308	ID:2	DATA send to 1: '273;26663'
+04:35.404	ID:5	RECV seq=273, latency=46775 ticks (116739 us | 116 ms) from 2
+04:35.597	ID:2	DATA send to 1: '274;36111'
+04:35.653	ID:5	RECV seq=274, latency=45522 ticks (78501 us | 78 ms) from 2
+04:37.105	ID:2	DATA send to 1: '275;19983'
+04:37.153	ID:5	RECV seq=275, latency=45253 ticks (70291 us | 70 ms) from 2
+04:38.456	ID:2	DATA send to 1: '276;64271'
+04:38.526	ID:5	RECV seq=276, latency=45968 ticks (92112 us | 92 ms) from 2
+04:38.777	ID:2	DATA send to 1: '277;9255'
+04:38.903	ID:5	RECV seq=277, latency=47790 ticks (16643 us | 16 ms) from 2
+04:39.690	ID:2	DATA send to 1: '278;39183'
+04:39.777	ID:5	RECV seq=278, latency=46503 ticks (108438 us | 108 ms) from 2
+04:41.323	ID:2	DATA send to 1: '279;27151'
+04:41.402	ID:5	RECV seq=279, latency=46236 ticks (100290 us | 100 ms) from 2
+04:42.300	ID:2	DATA send to 1: '280;59151'
+04:42.403	ID:5	RECV seq=280, latency=47039 ticks (124796 us | 124 ms) from 2
+04:42.745	ID:2	DATA send to 1: '281;8207'
+04:42.903	ID:5	RECV seq=281, latency=48845 ticks (48839 us | 48 ms) from 2
+04:44.284	ID:2	DATA send to 1: '282;58639'
+04:44.402	ID:5	RECV seq=282, latency=47572 ticks (9990 us | 9 ms) from 2
+04:45.042	ID:2	DATA send to 1: '283;17935'
+04:45.152	ID:5	RECV seq=283, latency=47306 ticks (1872 us | 1 ms) from 2
+04:45.645	ID:2	DATA send to 1: '284;37647'
+04:45.777	ID:5	RECV seq=284, latency=48067 ticks (25096 us | 25 ms) from 2
+04:47.215	ID:2	DATA send to 1: '285;23591'
+04:47.276	ID:5	RECV seq=285, latency=45704 ticks (84055 us | 84 ms) from 2
+04:48.378	ID:2	DATA send to 1: '286;61711'
+04:48.527	ID:5	RECV seq=286, latency=48564 ticks (40263 us | 40 ms) from 2
+04:49.261	ID:2	DATA send to 1: '287;25103'
+04:49.402	ID:5	RECV seq=287, latency=48290 ticks (31901 us | 31 ms) from 2
+04:50.487	ID:2	DATA send to 1: '288;65295'
+04:50.527	ID:5	RECV seq=288, latency=44991 ticks (62296 us | 62 ms) from 2
+04:51.183	ID:2	DATA send to 1: '289;22543'
+04:51.279	ID:5	RECV seq=289, latency=46805 ticks (117655 us | 117 ms) from 2
+04:51.972	ID:2	DATA send to 1: '290;48399'
+04:52.028	ID:5	RECV seq=290, latency=45522 ticks (78501 us | 78 ms) from 2
+04:52.980	ID:2	DATA send to 1: '291;15887'
+04:53.028	ID:5	RECV seq=291, latency=45253 ticks (70291 us | 70 ms) from 2
+04:53.831	ID:2	DATA send to 1: '292;43791'
+04:53.901	ID:5	RECV seq=292, latency=45968 ticks (92112 us | 92 ms) from 2
+04:54.651	ID:2	DATA send to 1: '293;5135'
+04:54.777	ID:5	RECV seq=293, latency=47789 ticks (16612 us | 16 ms) from 2
+04:56.065	ID:2	DATA send to 1: '294;51471'
+04:56.152	ID:5	RECV seq=294, latency=46502 ticks (108408 us | 108 ms) from 2
+04:57.198	ID:2	DATA send to 1: '295;23055'
+04:57.277	ID:5	RECV seq=295, latency=46235 ticks (100260 us | 100 ms) from 2
+04:57.675	ID:2	DATA send to 1: '296;38671'
+04:57.778	ID:5	RECV seq=296, latency=47038 ticks (124765 us | 124 ms) from 2
+04:58.620	ID:2	DATA send to 1: '297;4111'
+04:58.778	ID:5	RECV seq=297, latency=48846 ticks (48869 us | 48 ms) from 2
+04:59.659	ID:2	DATA send to 1: '298;38159'
+04:59.775	ID:5	RECV seq=298, latency=47486 ticks (7365 us | 7 ms) from 2
+05:00.917	ID:2	DATA send to 1: '299;13839'
+05:01.027	ID:5	RECV seq=299, latency=47306 ticks (1872 us | 1 ms) from 2
+05:01.270	ID:1	RPL status:
+05:01.272	ID:1	Joined DAG with instance ID: 30
+05:01.273	ID:1	Rank: 512
+05:01.274	ID:1	Routing table:
+05:01.282	ID:1	- Destination: aaaa::212:7402:2:202 | Prefix length: 128 | Next hop: fe80::212:7402:2:202
+05:02.020	ID:2	DATA send to 1: '300;49935'
+05:02.152	ID:5	RECV seq=300, latency=48067 ticks (25096 us | 25 ms) from 2
+05:03.089	ID:2	DATA send to 1: '301;19471'
+05:03.151	ID:5	RECV seq=301, latency=45701 ticks (83963 us | 83 ms) from 2
+05:03.753	ID:2	DATA send to 1: '302;41231'
